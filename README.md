@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm namishgupta29</h1>
+<h1 align="center">Hi 👋, I'm NAMISH GUPTA</h1>
 <h3 align="center">Building bots, one line of code at a time!🤖🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
